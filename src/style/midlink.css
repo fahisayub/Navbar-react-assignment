@@ -1,0 +1,13 @@
+.mid{
+   
+display: flex;
+text-align: center;
+justify-content: space-between;
+margin: auto;
+
+}
+.mid>a{
+    text-decoration-line: none;
+    color: rgb(212, 211, 211);
+
+}
